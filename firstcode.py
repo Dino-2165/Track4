@@ -3,6 +3,6 @@ import time
 import lib_book as lb
 
 print("Good day & hello Dino")
-lb.types("Electronics")
+lb.types("Electrical")
 
 
